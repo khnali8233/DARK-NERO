@@ -1,6 +1,6 @@
 
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮Dark NERO MD 2022 ®️ALL RIGHTS RESERVED
+//▮Dark NERO BY MOHEEB MD 2022 ®️ALL RIGHTS RESERVED
 //▮ 
 
 //▮
@@ -31,27 +31,31 @@ global.APIKeys = {
 
 // Other
 
-global.alivemsg =`HI I'M  ⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋⚜️
-                    
-		   KAVEESHA MD📌 `
+global.alivemsg =`HI I'M  ⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋 MADE BY MOHEEB ARIF⚜️
+                    *YOU CAN USE BIT NOW*
+TRY TO USE ONLY ISLAMIC
+OWNER:MOHEEB ARIF KHOKHAR
+REGARDS: ROYALS COMMUNITY PAKISTAN 
+METAFORCE ✍️
+		   *MOHEEB ARIF*📌 `
                      
 
 
 
 
 
-global.alivepic = `https://i.ibb.co/2d6vv85/Whats-App-Image-2022-09-26-at-07-59-53.jpg `//you logo key 
+global.alivepic = ` https://telegra.ph/file/33934b5baa8a56e0ff0b6.jpg`//you logo key 
 
 
-global.ownername = " KAVEESHA " //ur owner name
-global.owner = ['94774579505','']
-global.premium = ['94774579505','94774579505']
-global.botname = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
-global.ownername = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
-global.group1 = 'https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX'
-global.group2 = 'https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX'
-global.packname = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
-global.ytchannel = 'https://youtu.be/B1ri-AFU5hU'
+global.ownername = " MOHEEB ARIF METAFORCE " //ur owner name
+global.owner = ['923258672449','']
+global.premium = ['923191472449','923221975038']
+global.botname = ' 𝙼⃝OHEEB'S MD BOT'
+global.ownername = '𝙼⃝OHEEB'S  BOT 𝙼⃝𝙳'
+global.group1 = 'https://chat.whatsapp.com/JKz9nnzkagQA2VLfTGxRBj'
+global.group2 = 'https://chat.whatsapp.com/JKz9nnzkagQA2VLfTGxRBj'
+global.packname = '𝙼⃝OHEEB'S MD BOT'
+global.ytchannel = 'https://youtube.com/channel/UCv8AXZ2LdJRxCuoZiIWc09A'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
@@ -72,23 +76,23 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
+global.author = '𝙼⃝OHEEB'S MD BOT'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: '*success whoa*',
-        ban: '*Sorry, looks like u got banned😔😔 type .owner To request unban okay*',
-    horny: '*nsfw is disabled please ask owner to enable it*',
+    success: '*success whoa😃✍️✌️🔥*',
+        ban: '*Sorry, looks like u got banned😔😔 type .owner To request unban okay pangy na kia kro na*',
+    horny: '*nsfw is disabled please ask owner to enable it Owner is a Muslim you can't use NSFW Moheeb Arif Khokhar 😎🤓*',
     admin: '*this cmd is for admin only , l can feel you but sorry okay*',
-    botAdmin: '*with due respect can you please give bot adminship*',
-    owner: '*this cmd is for bot owner only , l can feel you but sorry okay*',
-    group: '*this feature is only for groups okay*',
+    botAdmin: '*with due respect can you please give bot adminship bro admin bna wrna damagh na kha*',
+    owner: '*this cmd is only for boss Moheeb Arif, l can feel you but sorry okay*',
+    group: '*this feature is only for groups okay join group https://chat.whatsapp.com/JKz9nnzkagQA2VLfTGxRBj*',
     private: '*this feature can only used in dm okay*',
     bot: '*Special Features for User Bot Number okay*',
-    wait: '*whoa wait DARK NERO BOT processing okay*',
-    endLimit: '*Brothers Daily Limit Has Expired, Type .buy limit amount limit to buy limit, Note: Limit will be reset every 12 hours*',
+    wait: '*whoa wait 𝙼⃝OHEEB'S MD BOT processing okay*',
+    endLimit: '*Brothers Daily Limit Has Expired, Type .buy limit amount limit to buy limit, Note: Limit will be reset every 12 hours 😉*',
 }
 global.limitawal = {
     premium: "Infinity",
